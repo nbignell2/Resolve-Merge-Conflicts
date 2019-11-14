@@ -1,3 +1,3 @@
 # Resolve-Merge-Conflicts
 
-Simple exercise
+Nate Bignell exercise
